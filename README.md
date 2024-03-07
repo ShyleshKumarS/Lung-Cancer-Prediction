@@ -1,4 +1,4 @@
-# Lung Cancer Prediction
+# Lung Cancer Prediction(On going)
 
 ## Overview
 This project aims to develop a machine learning model to predict lung cancer based on various features extracted from medical imaging data. The model will classify cases into three categories: normal, malignant, and benign.
